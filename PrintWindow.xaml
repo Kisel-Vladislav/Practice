@@ -9,11 +9,6 @@
     <Grid>
         <DocumentViewer x:Name="docViewer">
             <FixedDocument x:Name="fixDoc">
-                <!--<PageContent>
-                    <FixedPage>
-                        <TextBlock Text="CC"></TextBlock>
-                    </FixedPage>
-                </PageContent>-->
             </FixedDocument>
         </DocumentViewer>
     </Grid>
