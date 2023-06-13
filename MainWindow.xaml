@@ -19,8 +19,6 @@
     </Window.Resources>
     
     <Grid ShowGridLines="False">
-        
-        
         <Grid.RowDefinitions>
             <RowDefinition Height="*"></RowDefinition>
             <RowDefinition Height="0.1*"></RowDefinition>
